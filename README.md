@@ -1,5 +1,7 @@
 # Godot Game Engine Practice
 
+# This project has long been abandoned. Check out [SwitchBot 2: The Dangers of the Tomb](https://github.com/Azriel14/SwitchBot-2--The-Dangers-of-the-Tomb) for a better try at this game.
+
 This prototype is a pixel art 2D thing.
 
 This is a remake of the one of the previous creator's game ["SwitchBot" created for the Wowie Jam 4.0 GameJam](https://sonicmam.itch.io/switchbot).
